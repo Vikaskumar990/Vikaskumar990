@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**Vikaskumar990/Vikaskumar990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, there 👋
 
-Here are some ideas to get you started:
+[![HitCount](http://hits.dwyl.com/Vikaskumar990/Vikaskumar990.svg)](http://hits.dwyl.com/Vikaskumar990/Vikaskumar990)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently pursuing Master of Computer Application(MCA)
+- 🌱 I’m currently learning Data Science from upGrad
+- 👯 I’m looking to collaborate on any idea that impress me
+- 💬 Ask me about Web Development, Android Studio, Excel, MySql, Python, EDA, Tableau, Machine Learing
+- 📫 How to reach me: https://www.linkedin.com/in/vikaskumar990/ , https://twitter.com/Vikashr38970175 , vikasrana990940@gmail.com
+- ⚡ Fun fact: I Love Cricket.
+
+-During my graduation, I represented my college for "Quiz Competition-2017" and "Coding Fest-2018".
+
+A final year Master of Computer Application student at Lovely Professional University (LPU), Punjab with an interest in data science, machine learning ,data analytics, Android Development and Web development.
+
+Skilled in Microsoft Excel, MySQL, and data visualization tools TABLEAU , Exploratory Data Analysis, ML and Hypothesis Testing .
+
+Seeking job to work in an organization where I can acquire new knowledge, sharpen my skills and put my efforts into achieving organizational as well as individual goals.
+
+-My hobbies include listening to different genres of music, sweating out in the gym, in my free time, I love to work in the NGOs and to teach poor kids who can't afford education
+
+-I'm passionate about learning new things and taking up new challenges that would help me to discover my potential
+

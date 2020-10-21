@@ -4,7 +4,7 @@
 [![HitCount](http://hits.dwyl.com/Vikaskumar990/Vikaskumar990.svg)](http://hits.dwyl.com/Vikaskumar990/Vikaskumar990)
 
 - 🔭 I’m currently pursuing Master of Computer Application(MCA)
-- 🌱 I’m currently learning Data Science from upGrad
+- 🌱 I have completed certification Data Science from upGrad
 - 👯 I’m looking to collaborate on any idea that impress me
 - 💬 Ask me about Web Development, Android Studio, Excel, MySql, Python, EDA, Tableau, Machine Learing
 - 📫 How to reach me: https://www.linkedin.com/in/vikaskumar990/ , https://twitter.com/Vikashr38970175 , vikasrana990940@gmail.com
